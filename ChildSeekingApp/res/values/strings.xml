@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="app_name">Child Seeking App</string>
+    <string name="store_directory">ChildSeeking</string>
+    <string name="guidence"> .......
+        dffffffffff
+        ddddddddd
+        dddddddd
+        dddddd
+        ddddd
+        ddd.</string>
+    <string name="start">start</string>
+    <string name="add_comment">add the description about the child here &#8230; </string>
+    <string name="button_retake">Retake</string>
+    <string name="button_submit">Submit</string>
+    <string name="imageView_desc">Display photo</string>
+    <string name="choose_similar_photo_desc">Please click on the photo which is similar to the child, and press submit button!</string>
+
+</resources>
